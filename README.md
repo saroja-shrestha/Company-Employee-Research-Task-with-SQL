@@ -1,5 +1,5 @@
 EMPLOYEESQL:
-For this challenge, I took references from the class activities. Below are some of the outputs from the queries:
+Below are some of the outputs from the queries:
 
 1.List the employee number, last name, first name, sex, and salary of each employee.
 ![Output1](Images/Answer1.png)
